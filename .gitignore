@@ -335,6 +335,6 @@ ASALocalRun/
 
 .DS_Store
 
-*.config.json
-
 node_modules
+
+src/config.json

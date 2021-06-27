@@ -1,0 +1,30 @@
+{
+  "name": "janitor-bot",
+  "version": "1.0.0-alpha.1",
+  "description": "A multi-purpose Discord bot.",
+  "main": "janitor.js",
+  "scripts": {
+    "test": "j!help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiyi-m/janitor-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "janitor",
+    "bot",
+    "utility"
+  ],
+  "author": "foop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weiyi-m/janitor-bot/issues"
+  },
+  "homepage": "https://github.com/weiyi-m/janitor-bot#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "nodemon": "^2.0.7"
+  }
+}

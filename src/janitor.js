@@ -74,7 +74,7 @@ janitor.on('message', message => {
             const cooldownEmbed = new Discord.MessageEmbed()
                 .setColor('RANDOM')
                 .setAuthor(message.author.tag, message.author.displayAvatarURL({ size: 64 }))
-                .setDescription(`please wait ${timeLeft.toFixed(1)} more second(s) before reusing the \`${command.name}\` command.`)
+                .setDescription(`Please wait ${timeLeft.toFixed(1)} more second(s) before reusing the \`${command.name}\` command.`)
 			return message.channel.send(cooldownEmbed)
 		}
 	}

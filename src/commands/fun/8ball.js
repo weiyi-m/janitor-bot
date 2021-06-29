@@ -3,6 +3,8 @@ const Discord = require('discord.js');
 module.exports = {
     name: '8ball',
     description: 'a simulation of an 8ball to let your questions be answered by randomness',
+    args: true,
+    usage: "<question>",
     execute(message, args) {
         if (!args.length) {
             return message.channel.send("No output can occur without an input. Ask a question, dummy.");

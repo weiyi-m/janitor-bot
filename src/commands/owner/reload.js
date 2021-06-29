@@ -5,6 +5,7 @@ module.exports = {
     name: 'reload',
     description: 'Special ultra cool developer command.',
     args: true,
+    usage: '<command>',
     execute(message, args) {
         if (message.author.id != owner_id) {
             return;

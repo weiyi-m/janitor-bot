@@ -1,6 +1,6 @@
-<h1 align="center"> Janitor </h1><br>
+<h1 align="center"> Janitor Bot </h1><br>
 <p align="center">
-    <img alt="Janitor Bot" title="Janitor" src="https://i.imgur.com/B9PYwzj.jpg" width="500">
+    <img alt="Janitor Bot" title="Janitor" src="https://i.imgur.com/B9PYwzj.jpg" width="400">
 </p>
 
 <p align="center">

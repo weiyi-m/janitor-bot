@@ -25,7 +25,8 @@ Janitor Bot is currently in early development and solely maintained by me. As su
 ## Introduction
 [![Repo Size](https://img.shields.io/github/repo-size/weiyi-m/janitor-bot)]
 [![License](https://img.shields.io/github/license/weiyi-m/janitor-bot)]
-[![Top Language](https://img.shields.io/github/languages/top/weiyi-m/janitor-bot)]
+[![Top Language](https://img.shields.io/github/languages/top/weiyi-m/janitor-bot)]<br>
+⎻⎻⎻⎻⎻⎻⎻v⎻^⎻v⎻v⎻⎻⎻⎻⎻⎻⎻⎻⎻⎻⎻⎻⎻⎻⎻⎻v⎻^⎻v⎻⎻⎻
 
 Janitor Bot is solely developed and maintained by foop#6142, and built using Javascript and Discord.js.
 

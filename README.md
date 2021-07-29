@@ -1,5 +1,12 @@
 <h1 align="center"> Janitor Bot </h1><br>
 <p align="center">
+    <a href="#"><img src="https://img.shields.io/github/repo-size/weiyi-m/dhs-notes"></a>
+    <a href="#"><img src="https://img.shields.io/tokei/lines/github/weiyi-m/dhs-notes"></a>
+    <a href="https://github.com/weiyi-m/dhs-notes/pulls"><img src="https://img.shields.io/github/issues-pr-closed/weiyi-m/dhs-notes"></a>
+    <a href="https://github.com/weiyi-m/dhs-notes/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY--NC%204.0-brightgreen"></a>
+    <a href="https://wakatime.com/badge/github/weiyi-m/dhs-notes"><img src="https://wakatime.com/badge/github/weiyi-m/dhs-notes.svg"></a>
+</p>
+<p align="center">
     <img alt="Janitor Bot" title="Janitor" src="https://i.imgur.com/B9PYwzj.jpg" width="400">
 </p>
 

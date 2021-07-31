@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { owner_id } = require('../../config.json');
+const { dev_ids } = require('../../config.json');
 
 module.exports = {
     name: 'reload',
@@ -7,7 +7,7 @@ module.exports = {
     args: true,
     usage: '<command>',
     execute(message, args) {
-        if (message.author.id != owner_id) {
+        if (!dev_ids.includes(message.author.id)) {
             return;
         }
 

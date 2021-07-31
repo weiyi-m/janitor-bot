@@ -1,4 +1,4 @@
-const { owner_id } = require('../../config.json');
+const { dev_ids } = require('../../config.json');
 
 const clean = text => {
     if (typeof (text) === 'string') {
@@ -9,8 +9,8 @@ const clean = text => {
 module.exports = {
     name: 'eval',
     description: 'Why code in code editor when Discord do trick?',
-    execute(message, args, details) {
-        if (details.userID !== owner_id) {
+    execute(message, args) {
+        if (!dev_ids.includes(message.author.id)) {
             return;
         }
 
